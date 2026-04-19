@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Oklahoma
 
-> Free BeamStation sample export with 38 rows and masked direct-contact fields.
+> Free BeamStation sample export with 43 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `273977` |
 | Location | Oklahoma |
 | Category | Food and Drink |
-| Full dataset size | 388 records |
-| Free sample size | 38 records (9.79%) |
-| Last export | 2026-04-09T19:13:00.052620+00:00 |
+| Full dataset size | 437 records |
+| Free sample size | 43 records (9.84%) |
+| Last export | 2026-04-16T22:36:23.438774+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-273977/releases/download/sample-latest/beamstation_273977_food_and_drink-us-ok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
