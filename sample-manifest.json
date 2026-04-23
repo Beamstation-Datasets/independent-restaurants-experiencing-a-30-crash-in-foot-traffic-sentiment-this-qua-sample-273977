@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d5e908eb-674b-4a78-aae6-15d0d506e499",
+  "export_job_id": "785b83d2-6e63-4c11-ad3a-4b76edd06343",
   "id_short": 273977,
-  "published_at": "2026-04-19T19:36:23Z",
+  "published_at": "2026-04-23T19:54:28Z",
   "repo_name": "independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-273977",
   "sample_asset_name": "beamstation_273977_food_and_drink-us-ok_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/273977/beamstation_273977_food_and_drink-us-ok_SAMPLE_DIST.csv",
-  "sample_records": 43,
-  "sample_sha256": "e712ca0d67f07c14c466fbcf5441ecedb95692d065bea8296c39b947f0fcb5e5",
-  "sample_size_bytes": 177824,
-  "total_records": 437
+  "sample_records": 49,
+  "sample_sha256": "3546d50fedb143a5998a3972165dae1c5d2efa66dbaf4de2237943445fce507a",
+  "sample_size_bytes": 202884,
+  "total_records": 493
 }
